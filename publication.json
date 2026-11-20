@@ -1,0 +1,24 @@
+{
+  "complete": true,
+  "counts": {
+    "Alien": 4115,
+    "Anime": 4348,
+    "Basic 1": 4053,
+    "Basic SVG": 1026,
+    "Doll": 4109,
+    "Kawaii": 4734,
+    "Monkey": 4109,
+    "Monster": 4052,
+    "Robot": 4110,
+    "Soccer": 4041,
+    "Teddy bear": 4108,
+    "Wizard": 4044,
+    "Wood": 4052
+  },
+  "images": 50901,
+  "image_bytes": 1619594098,
+  "source_release": "https://github.com/sensoryapphouse/Symbol-Library/releases/download/library-2026-11-20/",
+  "all_archive_sha256_verified": true,
+  "all_image_crcs_verified": true,
+  "source_images_unchanged": true
+}
