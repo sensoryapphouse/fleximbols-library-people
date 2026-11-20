@@ -1,0 +1,99 @@
+{
+  "groups": {
+    "Alien": "alien",
+    "Anime": "anime",
+    "Basic 1": "basic-1",
+    "Basic SVG": "basic-svg",
+    "Doll": "doll",
+    "Kawaii": "kawaii",
+    "Monkey": "monkey",
+    "Monster": "monster",
+    "Robot": "robot",
+    "Soccer": "soccer",
+    "Teddy bear": "teddy-bear",
+    "Wizard": "wizard",
+    "Wood": "wood"
+  },
+  "counts": {
+    "Alien": 4115,
+    "Anime": 4348,
+    "Basic 1": 4053,
+    "Basic SVG": 1026,
+    "Doll": 4109,
+    "Kawaii": 4734,
+    "Monkey": 4109,
+    "Monster": 4052,
+    "Robot": 4110,
+    "Soccer": 4041,
+    "Teddy bear": 4108,
+    "Wizard": 4044,
+    "Wood": 4052
+  },
+  "assets": [
+    {
+      "name": "alien-01.zip",
+      "sha256": "c7550d212b657df835515cdb3946bd20d7ac49ee132153222808fdf6f39d9d22",
+      "files": 4115
+    },
+    {
+      "name": "anime-01.zip",
+      "sha256": "8c8c31dadfa505f7a17ced219150a607e3a44df26e31f42d5c33ee3746bbdc5e",
+      "files": 4348
+    },
+    {
+      "name": "basic-1-01.zip",
+      "sha256": "465355db86c86729c36e3819cd91eb0227e3ea0b83e8294f50178e1fa921e84b",
+      "files": 4053
+    },
+    {
+      "name": "basic-svg-01.zip",
+      "sha256": "7b823fb2dda7a6f77a714199d8fed9e07a79f1c02328a5e62d51d499b459e9a7",
+      "files": 1026
+    },
+    {
+      "name": "doll-01.zip",
+      "sha256": "4c6dfe7babba0dd60453a6d2c75afc593adc57de6497310504affcb064687b29",
+      "files": 4109
+    },
+    {
+      "name": "kawaii-01.zip",
+      "sha256": "476ed09ca3ce3148e00fb35cb80a73cb5ad1c147713475bc5c0d6dfd8b865e75",
+      "files": 4734
+    },
+    {
+      "name": "monkey-01.zip",
+      "sha256": "b3a9e50cf4906eae3b7912560e84b1a66ea943876383bb38d262161b613901e3",
+      "files": 4109
+    },
+    {
+      "name": "monster-01.zip",
+      "sha256": "28c31062cf4bec8db0c39a767f2c3034998e8e148f715c7e334655a6609cb054",
+      "files": 4052
+    },
+    {
+      "name": "robot-01.zip",
+      "sha256": "93ffc13686a2832d1d0f47b2a0fe8444489997267436608dea159e38c81f42a9",
+      "files": 4110
+    },
+    {
+      "name": "soccer-01.zip",
+      "sha256": "33016ce9899f24030014ea51b0c75a19b45b6543235d1613be135643db474f03",
+      "files": 4041
+    },
+    {
+      "name": "teddy-bear-01.zip",
+      "sha256": "42ed4846f090fee70e3f4e69be118669cfd54500aedd9cc573b73d5a66f5fd95",
+      "files": 4108
+    },
+    {
+      "name": "wizard-01.zip",
+      "sha256": "263ea2303d68213681adda9426221dd41de7bf5be39a95f4bd998dafa39e8d79",
+      "files": 4044
+    },
+    {
+      "name": "wood-01.zip",
+      "sha256": "a05b0d6272d600be12ab71e1ee9ca3f71815f9a8a446399d0f6dd14adc46a504",
+      "files": 4052
+    }
+  ]
+}
